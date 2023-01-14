@@ -1,20 +1,16 @@
-# the-best-classifier
-I loaded a historical Dataset from previous loan applications and applied different classifcation algorithms
+# The-best-classifier
+I loaded a historical Dataset from previous loan applications and applied the following algorithms to build my models:
 
-Thefollowing algorithms to build your models:
+1. k-Nearest Neighbour
 
-k-Nearest Neighbour
+2. Decision Tree
 
-Decision Tree
+3. Support Vector Machine
 
-Support Vector Machine
-
-Logistic Regression
+4. Logistic Regression
 
 The results is reported as the accuracy of each classification algorithm, using the following metrics when these are applicable:
 
 Jaccard index
-
 F1-score
-
-LogLoass
+LogLoass.
